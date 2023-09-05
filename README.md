@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pateldhruvin2503@gmail.com**
 
-- 📄 Know about my experiences [https://pdhruvin25.github.io/Dhruvin_Patel/Resume.pdf](https://pdhruvin25.github.io/Dhruvin_Patel/Resume.pdf)
+- 📄 Know about my experiences [https://pdhruvin25.github.io/my-app/](https://pdhruvin25.github.io/my-app/)
 
 - ⚡ Fun fact **I think I am a good gamer :)**
 
