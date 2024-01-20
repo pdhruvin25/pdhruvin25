@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dhruvin Patel</h1>
-<h3 align="center">A Enthusiastic Full-Stack Developer from Toronto</h3>
+<h3 align="center">A Enthusiastic Software Engineer from Toronto</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pdhruvin25&label=Profile%20views&color=0e75b6&style=flat" alt="pdhruvin25" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pdhruvin25&label=Profile%20views&color=0e75b6&style=flat" alt="pdhruvin25" /></p>
 
-- 🌱 I’m currently learning **Angular and Flutter**
+- 🌱 I’m currently learning **Solidity (Ethereum Blockchain) **
 
-- 👯 I’m looking to collaborate on **Web Applications**
-
-- 👨‍💻 All of my projects are available at [https://pdhruvin25.github.io/Dhruvin_Patel/](https://pdhruvin25.github.io/Dhruvin_Patel/)
+- 👨‍💻 All of my projects and experience are available at [My Website](https://pdhruvin25.github.io/my-app/)
 
 - 📫 How to reach me **pateldhruvin2503@gmail.com**
-
-- 📄 Know about my experiences [https://pdhruvin25.github.io/my-app/](https://pdhruvin25.github.io/my-app/)
-
-- ⚡ Fun fact **I think I am a good gamer :)**
+  
+- ⚡ I love going to the Gym and playing sports like; cricket, basketball, and soccer **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
